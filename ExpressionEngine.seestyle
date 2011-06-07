@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.ExpressionEngine">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#002c37" />
+  <style id="/XML/Entities"
+    color="#881280" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/ExpressionEngine"
+    color="#dd0000" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/EE Tag Parameters"
+    color="#881350" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/EE Parameter Value"
+    color="#eb7300" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP"
+    color="#000000" inverted-color="#7f7f7f"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Delimiter"
+    color="#dd0000" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP4 Functions"
+    color="#661aa9" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Keywords"
+    color="#881350" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Magic Constants"
+    color="#a1617a" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Magic Methods"
+    color="#661aa9" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Numbers"
+    color="#0000ff" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/FunctionRegex"
+    color="#003369" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Variables"
+    color="#825900" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Comment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML/PHP SingleComment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML/PHP String"
+    color="#eb7300" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/Expanded Variables"
+    color="#c94b16" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/Expanded Variables 2"
+    color="#c94b16" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP String2"
+    color="#eb7300" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML/PHP Heredoc"
+    color="#eb7300" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Nested Tags"
+    color="#881350" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Double Nested Tags"
+    color="#eb7300" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/EE Comments"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/ExpressionEngine/Inline Javascript"
+    color="#ffffff" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Script Tags"
+    color="#881280" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Keywords"
+    color="#881350" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Numbers"
+    color="#0000ff" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Characters"
+    color="#0000ff" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/FunctionRegex"
+    color="#003369" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Opening Script Tag"
+    color="#881280" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Attributes in Tags"
+    color="#994500" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Strings in Tags"
+    color="#1a1aa6" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Single Strings in Tags"
+    color="#1a1aa6" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/AutodocComment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Comment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/SingleComment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/Javascript/Regular Expressions"
+    color="#661aa9" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/Escaped Characters"
+    color="#be73fd" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/String"
+    color="#760f15" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/Javascript/SingleString"
+    color="#760f15" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Inline CSS"
+    color="#ffffff" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Style Tags"
+    color="#881280" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/ExpressionEngine/Opening Style Tag"
+    color="#881280" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Inside curly brackets"
+    color="#000000" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Keywords"
+    color="#88134f" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Attribute state"
+    color="#000000" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Attributes"
+    color="#9b4400" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Digits"
+    color="#0000ff" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Colors"
+    color="#760f15" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/AutodocComment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/Comment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/String"
+    color="#760f15" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/SingleString"
+    color="#760f15" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/URL"
+    color="#760f15" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Comment"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/XML/SGML Double Dash"
+    color="#ff0000" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/XML/CDATA"
+    color="#ff0000" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Doctype"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Escape"
+    color="#236e25" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Tags"
+    color="#881280" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Attributes in Tags"
+    color="#994500" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Strings in Tags"
+    color="#1a1aa6" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Single Strings in Tags"
+    color="#1a1aa6" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
